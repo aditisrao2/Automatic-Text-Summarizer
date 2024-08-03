@@ -4,7 +4,7 @@ The goal of automatic text summarization is presenting the source text into a sh
 
 Users are provided with three options for providing input data :
 
-1) USers can manually type the text and then request a summary.
+1) Users can manually type the text and then request a summary.
 
 2) Users can open a file containing the text they wish to summarize.
 
