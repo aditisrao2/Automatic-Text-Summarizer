@@ -1,7 +1,8 @@
 # Automatic-Text-Summarizer
-#### Developed an Automatic Text Summarizer using NLP libraries like SpaCy, NLTK and Sumy.
+## About 
+Developed an Automatic Text Summarizer using NLP libraries like SpaCy, NLTK and Sumy.
 The goal of automatic text summarization is presenting the source text into a shorter version with semantics.
-
+## Data Collection
 Users are provided with three options for providing input data :
 
 1) Users can manually type the text and then request a summary.
