@@ -1,8 +1,14 @@
 # Automatic-Text-Summarizer
-#### A text summarizer condenses long texts into shorter versions, retaining key points.
+#### Developed an Automatic Text Summarizer using NLP libraries like SpaCy, NLTK and Sumy.
+The goal of automatic text summarization is presenting the source text into a shorter version with semantics.\
 
-There are two types: 
+Users are provided with three options for providing input data :
 
-Extractive : which selects important sentences from the original text
+1) Manually type the text and then request a summary.
 
-Abstractive : which generates new sentences to convey main ideas.
+2) Open a file containing the text they wish to summarize.
+
+3) Users can provide a URL link to the specific webpage they want to summarize.
+
+
+
