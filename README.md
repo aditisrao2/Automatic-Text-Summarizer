@@ -26,6 +26,7 @@ Word frequencies are calculated and normalized, then sentences are scored based 
 
 Sentences over 30 words are filtered out, and the top sentences are chosen for the final summary.
 
+
 ### 2. NLTK
 This summarization method involves tokenizing the input text into words and sentences, then converting words to lowercase. 
 
